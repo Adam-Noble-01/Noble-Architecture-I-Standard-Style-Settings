@@ -29,7 +29,7 @@ h1 {
 h2 {
     font-size: 16px;
     color: #635c4c;
-    font-weight: 700; /* Bold weight */
+    font-weight: 800; /* Bold weight */
     margin-top: 25;
     margin-bottom: 20px;
 }
@@ -39,14 +39,14 @@ h3 {
     color: #635c4c;
     font-weight: 700; /* Bold weight */
     margin-top: 20;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 h4 {
     font-size: 12px;
     color: #635c4c;
-    font-weight: 600; /* Bold weight */
-    margin-top: 6;
+    font-weight: 700; /* Bold weight */
+    margin-top: 5;
     margin-bottom:2px;
 }
 
