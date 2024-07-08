@@ -14,7 +14,7 @@ p {
 /* Heading styles */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
-    font-weight: 800; /* Bold weight */
+    font-weight: 700; /* Bold weight */
     line-height: 1.15;
     margin: 1.3em 0 1em;
     padding: 0;
@@ -23,13 +23,13 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: 18px;
     color: #564f40;
-    font-weight: 800; /* Bold weight */
+    font-weight: 700; /* Bold weight */
 }
 
 h2 {
     font-size: 16px;
     color: #635c4c;
-    font-weight: 800; /* Bold weight */
+    font-weight: 700; /* Bold weight */
     margin-top: 25;
     margin-bottom: 20px;
 }
